@@ -12,8 +12,8 @@ Each skill encodes a workflow I've found myself repeating, so I don't have to re
 
 | Skill | Description |
 |-------|-------------|
-| [`doc-merge`](skills/doc-merge/skill.md) | Multi-document semantic comparison and interactive merge resolution. Takes multiple documents on the same topic, diagnoses differences at multiple levels (framework, structure, argument, expression), and guides you through resolving conflicts into a single output. |
-| [`context-handoff`](skills/context-handoff/skill.md) | Generates structured context handoff documents that compress a conversation's working state into a 12-module summary for seamless continuation in a new session. Inspired by Claude Code's `/compact` but redesigned for general-purpose conversations. |
+| [`doc-merge`](skills/doc-merge/SKILL.md) | Multi-document semantic comparison and interactive merge resolution. Takes multiple documents on the same topic, diagnoses differences at multiple levels (framework, structure, argument, expression), and guides you through resolving conflicts into a single output. |
+| [`context-handoff`](skills/context-handoff/SKILL.md) | Generates structured context handoff documents that compress a conversation's working state into a 12-module summary for seamless continuation in a new session. Inspired by Claude Code's `/compact` but redesigned for general-purpose conversations. |
 
 ## Usage
 
