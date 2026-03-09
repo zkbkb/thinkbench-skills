@@ -1,12 +1,8 @@
 # ThinkBench Skills
 
-A collection of Claude skills I wrote for the thinking and writing workflows I use most.
+A collection of Claude skills I wrote for the thinking and writing workflows I use most. Each skill encodes a workflow I've found myself repeating, so I don't have to re-explain the process every time.
 
-## What is this?
-
-These are custom [Claude skills](https://docs.anthropic.com/en/docs/build-with-claude/projects#skills) for Claude.ai (web and desktop). They target cognitive work rather than code generation or file manipulation — the kind of tasks where you need to compare, structure, draft, and refine ideas.
-
-Each skill encodes a workflow I've found myself repeating, so I don't have to re-explain the process every time.
+These are custom Claude skills targeting cognitive work rather than code generation or file manipulation — the kind of tasks where you need to compare, structure, draft, and refine ideas.
 
 ## Skills
 
