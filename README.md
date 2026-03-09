@@ -12,8 +12,8 @@ Each skill encodes a workflow I've found myself repeating, so I don't have to re
 
 | Skill | Description |
 |-------|-------------|
-| [<img src="https://files.manuscdn.com/assets/image/brand/image/Manus-Glyph-Black.svg" height="14" alt="Manus"> doc-merge](skills/doc-merge/SKILL.md) | Multi-document semantic comparison and interactive merge resolution. Takes multiple documents on the same topic, diagnoses differences at multiple levels (framework, structure, argument, expression), and guides you through resolving conflicts into a single output. |
-| [<img src="https://files.manuscdn.com/assets/image/brand/image/Manus-Glyph-Black.svg" height="14" alt="Manus"> context-handoff](skills/context-handoff/SKILL.md) | Generates structured context handoff documents that compress a conversation's working state into a 12-module summary for seamless continuation in a new session. Inspired by Claude Code's `/compact` but redesigned for general-purpose conversations. |
+| [<img src="https://files.manuscdn.com/assets/image/brand/image/Manus-Glyph-Black.svg" height="14" alt="Import to Manus">](https://manus.im/app#settings/skills/import?githubUrl=https://github.com/zkbkb/thinkbench-skills/tree/main/skills/doc-merge) [doc-merge](skills/doc-merge/SKILL.md) | Multi-document semantic comparison and interactive merge resolution. Takes multiple documents on the same topic, diagnoses differences at multiple levels (framework, structure, argument, expression), and guides you through resolving conflicts into a single output. |
+| [<img src="https://files.manuscdn.com/assets/image/brand/image/Manus-Glyph-Black.svg" height="14" alt="Import to Manus">](https://manus.im/app#settings/skills/import?githubUrl=https://github.com/zkbkb/thinkbench-skills/tree/main/skills/context-handoff) [context-handoff](skills/context-handoff/SKILL.md) | Generates structured context handoff documents that compress a conversation's working state into a 12-module summary for seamless continuation in a new session. Inspired by Claude Code's `/compact` but redesigned for general-purpose conversations. |
 
 ## Usage (Claude.ai)
 
