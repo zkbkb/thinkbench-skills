@@ -11,6 +11,8 @@ description: >
   or "save this conversation's state". Even if the user doesn't use these exact phrases,
   trigger this skill whenever they express intent to structurally preserve the current
   conversation's context for reuse.
+author: Kaibin Zhang
+version: 1.0.0
 ---
 
 # Context Handoff — Conversation State Compression for Session Continuity

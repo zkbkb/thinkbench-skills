@@ -10,6 +10,8 @@ description: >
   context-handoff (/handoff, /compact) which compresses conversation state for session
   continuation — this skill produces a faithful, verbatim record of the conversation for
   archival, review, and reference purposes.
+author: Kaibin Zhang
+version: 1.0.0
 ---
 
 # Transcript — Conversation Record Export

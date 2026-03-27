@@ -10,6 +10,8 @@ description: >
   the user mentions having multiple AI-generated drafts, multiple agent outputs, or parallel
   writing attempts that need consolidation. Even if the user just says "help me pick the best
   parts from these", this skill applies.
+author: Kaibin Zhang
+version: 1.0.0
 ---
 
 # Doc-Merge
